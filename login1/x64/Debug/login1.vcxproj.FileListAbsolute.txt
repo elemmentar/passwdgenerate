@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\login1\login1\x64\Debug\login1.vcxproj.AssemblyReference.cache
+C:\Users\victo\source\repos\login1\login1\x64\Debug\login1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\victo\source\repos\login1\login1\x64\Debug\login1.MyForm.resources
+C:\Users\victo\source\repos\login1\login1\x64\Debug\login1.vcxproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Рабочий стол\passwordgenerat\login1\x64\Debug\login1.vcxproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Рабочий стол\passwordgenerat\login1\x64\Debug\login1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\victo\OneDrive\Рабочий стол\passwordgenerat\login1\x64\Debug\login1.MyForm.resources
+C:\Users\victo\OneDrive\Рабочий стол\passwordgenerat\login1\x64\Debug\login1.vcxproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Рабочий стол\proiecte lucru\passwordgenerat\login1\x64\Debug\login1.vcxproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Рабочий стол\proiecte lucru\passwordgenerat\login1\x64\Debug\login1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\victo\OneDrive\Рабочий стол\proiecte lucru\passwordgenerat\login1\x64\Debug\login1.MyForm.resources
+C:\Users\victo\OneDrive\Рабочий стол\proiecte lucru\passwordgenerat\login1\x64\Debug\login1.vcxproj.GenerateResource.cache
